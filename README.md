@@ -1,6 +1,6 @@
 # A New Dataset for Red Tide Segmentation
 
-[Qiong Wu], Zihao Wang, Puhong Duan, Wang Liu, [Xudong Kang]
+Qiong Wu, Zihao Wang, Puhong Duan, Wang Liu, Xudong Kang
 
 ___________
 
